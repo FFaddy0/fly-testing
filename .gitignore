@@ -25,3 +25,4 @@ mono_crash.*.json
 *_bak*.hipnc
 
 *.DS_Store
+/builds
